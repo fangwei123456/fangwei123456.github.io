@@ -3,8 +3,6 @@ layout: default
 ---
 ## About
 
-[[Google Scholar](https://scholar.google.com/citations?user=e2lED2gAAAAJ&hl=en)] [[CV](https://github.com/fangwei123456/fangwei123456.github.io/raw/main/cv_en.pdf)] [[中文简历](https://github.com/fangwei123456/fangwei123456.github.io/raw/main/cv_cn.pdf)]
-
 I am a Ph.D. candidate supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and advised by Prof. [Zhaofei Yu](http://scholar.pku.edu.cn/yuzhaofei) and [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/).
 
 My recent research interests are learning and network structure of Spiking Neural Network.
