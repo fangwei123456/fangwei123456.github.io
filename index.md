@@ -3,7 +3,7 @@ layout: default
 ---
 ## About
 
-I am a Ph.D. candidate supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and advised by Prof. [Zhaofei Yu](http://scholar.pku.edu.cn/yuzhaofei) and [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/).
+I am a Ph.D. candidate supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and advised by Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) and [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/).
 
 My recent research interests are learning and network structure of Spiking Neural Network.
 
