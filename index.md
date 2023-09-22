@@ -1,123 +1,38 @@
 ---
 layout: default
 ---
+## About
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[[Google Scholar](https://scholar.google.com/citations?user=e2lED2gAAAAJ&hl=en)] [[CV](https://github.com/fangwei123456/fangwei123456.github.io/raw/main/cv_en.pdf)] [[中文简历](https://github.com/fangwei123456/fangwei123456.github.io/raw/main/cv_cn.pdf)]
 
-[Link to another page](./another-page.html).
+I am a Ph.D. candidate supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and advised by Prof. [Zhaofei Yu](http://scholar.pku.edu.cn/yuzhaofei) and [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/).
 
-There should be whitespace between paragraphs.
+My recent research interests are learning and network structure of Spiking Neural Network.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+- 2015 - 2019, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+- 2019 -  . . . . , Ph.D. candidate, [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Publications
 
-## Header 2
+- Yanqi Chen, Zhaofei Yu, **Wei Fang**, Tiejun Huang, Yonghong Tian, [Pruning of Deep Spiking Neural Networks through Gradient Rewiring](https://www.ijcai.org/proceedings/2021/236), **IJCAI 2021**
+- **Wei Fang**, Zhaofei Yu, Yanqi Chen, Timothée Masquelier, Tiejun Huang, Yonghong Tian, [Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html), **ICCV 2021**
+- **Wei Fang**, Zhaofei Yu, Yanqi Chen, Tiejun Huang, Timothée Masquelier, Yonghong Tian, [Deep Residual Learning in Spiking Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html), NeurIPS 2021
+- Tong Bu, **Wei Fang**, Jianhao Ding, PengLin Dai, Zhaofei Yu, Tiejun Huang, [Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks](https://openreview.net/forum?id=7B3IJMM1k_M), **ICLR 2022**
+- Yanqi Chen, Zhaofei Yu, **Wei Fang**, Zhengyu Ma, Tiejun Huang, Yonghong Tian, [State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks](https://proceedings.mlr.press/v162/chen22ac.html), ICML 2022
+- Yaoyu Zhu, Zhaofei Yu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Timothée Masquelier, [Training Spiking Neural Networks with Event-driven Backpropagation](https://openreview.net/forum?id=d4JmP1T45WE), **NeurIPS 2022**
+- Yanqi Chen, Zhengyu Ma, **Wei Fang**, Xiawu Zheng, Zhaofei Yu, Yonghong Tian, [A Unified Framework of Soft Threshold Pruning](https://openreview.net/forum?id=cCFqcrq0d8), **ICLR 2023**
+- **Wei Fang**, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, Ding Chen, Liwei Huang, Huihui Zhou, Guoqi Li, Yonghong Tian, [SpikingJelly: An   Open-source Machine Learning Infrastructure Platform for Spike-based   Intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), Science Advances (In Press)
+- **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://arxiv.org/abs/2304.12760), **NeurIPS 2023**
+- Yaoyu Zhu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Zhaofei Yu, <u>Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks</u>, **NeurIPS 2023**
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Projects
 
-### Header 3
+- [SpikingJelly](https://github.com/fangwei123456/spikingjelly) is an open-source deep learning framework for Spiking Neural Network (SNN). I am one of the main contributors.
+- [Python JPEG Encoder](https://github.com/fangwei123456/python-jpeg-encoder), which starts from scratch to create a standardized JPEG file.
+- [Tello GUI Controller](https://github.com/fangwei123456/telloGUIController), a GUI controller based on Qt5 for the Tello UAV.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Contact
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- fwei at pku.edu.cn
