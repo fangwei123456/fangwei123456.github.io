@@ -9,8 +9,8 @@ My recent research interests are learning and network structure of Spiking Neura
 
 ## Education
 
-- 2015 - 2019, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
-- 2019 -  . . . . , Ph.D. candidate, [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/)
+- 2015.9 - 2019.6, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+- 2019.9 -  2024.6, Ph.D. candidate, [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/)
 
 ## Publications
 
