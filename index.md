@@ -7,6 +7,8 @@ I am a Ph.D. candidate supervised by Prof. [Yonghong Tian](https://www.pkuml.org
 
 My recent research interests are learning and network structure of Spiking Neural Network.
 
+I am seeking academic positions. Please contact me (fwei at pku.edu.cn) if you are interested in my research.
+
 ## Education
 
 - 2015.9 - 2019.6, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
