@@ -1,22 +1,22 @@
 ---
 layout: default
 ---
-## Wei Fang's Homepage
+## 方维 个人主页
 
 [English](./index.md), [中文](./index_cn.md)
 
-I am a Ph.D. candidate of [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and cooperated by Prof. [Zhaofei Yu](https://yuzhaofei.github.io/), Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), and Prof. [Guoqi Li](https://casialiguoqi.github.io/).
+我是北京大学计算机学院的在读博士研究生，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我也与[余肇飞](https://yuzhaofei.github.io/)教授、[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 
-My recent research interests are learning and network structure of Spiking Neural Network.
+我的主要研究方向包括脉冲神经网络的学习、网络结构设计。
 
-I am seeking academic positions. Please contact me (fwei at pku.edu.cn) if you are interested in my research.
+我目前正在寻找学术界的工作机会。对我感兴趣的学术团队，可以通过`fwei at pku.edu.cn`来联系我。
 
-## Education
+## 教育经历
 
-- 2015.9 - 2019.6, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
-- 2019.9 -  2024.6, Ph.D. candidate, [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/)
+- 2015.9 - 2019.6, 学士, [清华大学自动化系](https://www.au.tsinghua.edu.cn/)
+- 2019.9 -  2024.6, 博士研究生在读, [北京大学计算机学院](https://cs.pku.edu.cn/)
 
-## Publications
+## 出版物
 
 - Yanqi Chen, Zhaofei Yu, **Wei Fang**, Tiejun Huang, Yonghong Tian, [Pruning of Deep Spiking Neural Networks through Gradient Rewiring](https://www.ijcai.org/proceedings/2021/236), **IJCAI 2021**
 - **Wei Fang**, Zhaofei Yu, Yanqi Chen, Timothée Masquelier, Tiejun Huang, Yonghong Tian, [Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html), **ICCV 2021**
@@ -29,12 +29,12 @@ I am seeking academic positions. Please contact me (fwei at pku.edu.cn) if you a
 - **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://openreview.net/forum?id=rfTFJvTkr2), **NeurIPS 2023**
 - Yaoyu Zhu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Zhaofei Yu, [Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks](https://openreview.net/forum?id=8IvW2k5VeA), **NeurIPS 2023**
 
-## Projects
+## 开源项目
 
-- [SpikingJelly](https://github.com/fangwei123456/spikingjelly) is an open-source deep learning framework for Spiking Neural Network (SNN). I am one of the main contributors.
-- [Python JPEG Encoder](https://github.com/fangwei123456/python-jpeg-encoder), which starts from scratch to create a standardized JPEG file.
-- [Tello GUI Controller](https://github.com/fangwei123456/telloGUIController), a GUI controller based on Qt5 for the Tello UAV.
+- [SpikingJelly](https://github.com/fangwei123456/spikingjelly) 是目前最为流行的开源脉冲神经网络深度学习框架，我是主要作者。
+- [Python JPEG Encoder](https://github.com/fangwei123456/python-jpeg-encoder), 从零开始构建的JPEG编码器。
+- [Tello GUI Controller](https://github.com/fangwei123456/telloGUIController), 基于Qt5的Tello无人机控制程序。
 
-## Contact
+## 联系方式
 
 - fwei at pku.edu.cn
