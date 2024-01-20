@@ -5,7 +5,7 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-我是北京大学计算机学院的在读博士研究生，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我也与[余肇飞](https://yuzhaofei.github.io/)教授、[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、[李国齐](https://casialiguoqi.github.io/)教授长期合作。
+我是北京大学计算机学院的在读博士研究生，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我也与北京大学的[余肇飞](https://yuzhaofei.github.io/)教授、法国国家科学研究中心的[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、中国科学院自动化研究所的[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 
 我的主要研究方向包括脉冲神经网络的学习、网络结构设计。
 
