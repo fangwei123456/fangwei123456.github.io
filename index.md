@@ -5,7 +5,7 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-I am a Ph.D. candidate of [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and cooperated by Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of Institute of Automation, Chinese Academy of Sciences.
+I am a Ph.D. candidate of [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and cooperated with Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of Institute of Automation, Chinese Academy of Sciences.
 
 My recent research interests are learning and network structure of Spiking Neural Network.
 
