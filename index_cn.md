@@ -3,7 +3,7 @@ layout: default
 ---
 ## 方维 个人主页
 
-[English](./index.md), [中文](./index_cn.md)
+[[English]](./index.md) [[中文]](./index_cn.md)
 
 我是北京大学计算机学院的在读博士研究生，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我也与[余肇飞](https://yuzhaofei.github.io/)教授、[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 

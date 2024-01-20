@@ -3,7 +3,7 @@ layout: default
 ---
 ## Wei Fang's Homepage
 
-[English](./index.md), [中文](./index_cn.md)
+[[English]](./index.md) [[中文]](./index_cn.md)
 
 I am a Ph.D. candidate of [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html), and cooperated by Prof. [Zhaofei Yu](https://yuzhaofei.github.io/), Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), and Prof. [Guoqi Li](https://casialiguoqi.github.io/).
 
