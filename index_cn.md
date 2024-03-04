@@ -26,6 +26,8 @@ layout: default
 - Yaoyu Zhu, Zhaofei Yu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Timothée Masquelier, [Training Spiking Neural Networks with Event-driven Backpropagation](https://openreview.net/forum?id=d4JmP1T45WE), **NeurIPS 2022**
 - Yanqi Chen, Zhengyu Ma, **Wei Fang**, Xiawu Zheng, Zhaofei Yu, Yonghong Tian, [A Unified Framework of Soft Threshold Pruning](https://openreview.net/forum?id=cCFqcrq0d8), **ICLR 2023**
 - **Wei Fang**, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, Ding Chen, Liwei Huang, Huihui Zhou, Guoqi Li, Yonghong Tian, [SpikingJelly: An   Open-source Machine Learning Infrastructure Platform for Spike-based   Intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), **Science Advances**
+  - 该论文被**Nature Computational Science**以*Research Highlight*进行报道: [A full-stack platform for spiking deep learning](https://www.nature.com/articles/s43588-023-00565-5)
+
 - **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://openreview.net/forum?id=rfTFJvTkr2), **NeurIPS 2023**
 - Yaoyu Zhu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Zhaofei Yu, [Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks](https://openreview.net/forum?id=8IvW2k5VeA), **NeurIPS 2023**
 
