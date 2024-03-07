@@ -24,7 +24,7 @@ layout: default
 - Tong Bu, **Wei Fang**, Jianhao Ding, PengLin Dai, Zhaofei Yu, Tiejun Huang, [Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks](https://openreview.net/forum?id=7B3IJMM1k_M), **ICLR 2022**
 - Yanqi Chen, Zhaofei Yu, **Wei Fang**, Zhengyu Ma, Tiejun Huang, Yonghong Tian, [State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks](https://proceedings.mlr.press/v162/chen22ac.html), **ICML 2022**
 - Yaoyu Zhu, Zhaofei Yu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Timothée Masquelier, [Training Spiking Neural Networks with Event-driven Backpropagation](https://papers.nips.cc/paper_files/paper/2022/hash/c4e5f4de1b3cfc838eec6484d0b85378-Abstract-Conference.html), **NeurIPS 2022**
-- Yanqi Chen, Zhengyu Ma, **Wei Fang**, Xiawu Zheng, Zhaofei Yu, Yonghong Tian, [A Unified Framework of Soft Threshold Pruning](https://openreview.net/forum?id=cCFqcrq0d8), **ICLR 2023**
+- Yanqi Chen, Zhengyu Ma, **Wei Fang**, Xiawu Zheng, Zhaofei Yu, Yonghong Tian, [A Unified Framework for Soft Threshold Pruning](https://openreview.net/forum?id=cCFqcrq0d8), **ICLR 2023**
 - **Wei Fang**, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, Ding Chen, Liwei Huang, Huihui Zhou, Guoqi Li, Yonghong Tian, [SpikingJelly: An   Open-source Machine Learning Infrastructure Platform for Spike-based   Intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), **Science Advances**
   - 该论文被**Nature Computational Science**以*Research Highlight*进行报道: [A Full-stack Platform for Spiking Deep Learning](https://www.nature.com/articles/s43588-023-00565-5)
 
