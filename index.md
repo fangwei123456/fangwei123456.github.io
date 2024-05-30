@@ -31,6 +31,7 @@ I am seeking academic positions. Please contact me (fwei at pku.edu.cn) if you a
 - **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://papers.nips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html), **NeurIPS 2023**
 - Yaoyu Zhu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Zhaofei Yu, [Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks](https://papers.nips.cc/paper_files/paper/2023/hash/cde874a797a8300da693d5e412b7fdc0-Abstract-Conference.html), **NeurIPS 2023**
 - Liuzhenghao Lv, **Wei Fang**, Li Yuan, Yonghong Tian, [Optimal ANN-SNN Conversion with Group Neurons](https://ieeexplore.ieee.org/document/10448202), **ICASSP 2024**
+- Man Yao, Ole Richter, Guangshe Zhao, Ning Qiao, Yannan Xing, Dingheng Wang, Tianxiang Hu, **Wei Fang**, Tugba Demirci, Michele De Marchi, Lei Deng, Tianyi Yan, Carsten Nielsen, Sadique Sheik, Chenxi Wu, Yonghong Tian, Bo Xu, Guoqi Li, [Spike-based Dynamic Computing with Asynchronous Sensing-Computing Neuromorphic Chip](https://www.nature.com/articles/s41467-024-47811-6), **Nature Communications**
 
 ## Projects
 
