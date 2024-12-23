@@ -11,6 +11,8 @@ layout: default
 
 欢迎对我感兴趣的学术团队联系(fwei at pku.edu.cn)。
 
+更新日期：2024.12.23
+
 ## 教育和工作经历
 
 - 2015.9 - 2019.6, 学士, [清华大学自动化系](https://www.au.tsinghua.edu.cn/)

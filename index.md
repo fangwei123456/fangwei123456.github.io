@@ -13,6 +13,8 @@ My recent research interests are learning and network structure of Spiking Neura
 
 Please contact me (fwei at pku.edu.cn) if you are interested in my research.
 
+Last update: 2024.12.23
+
 ## Education and Working Experience
 
 - 2015.9 - 2019.6, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
@@ -50,3 +52,4 @@ Please contact me (fwei at pku.edu.cn) if you are interested in my research.
 ## Contact
 
 - fwei at pku.edu.cn
+
