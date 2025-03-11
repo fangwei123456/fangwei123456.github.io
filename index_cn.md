@@ -5,19 +5,22 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-我是北京大学信息工程学院的助理研究员。在此之前，我从北京大学计算机学院获得了博士学位，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我也与北京大学的[余肇飞](https://yuzhaofei.github.io/)教授、法国国家科学研究中心的[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、中国科学院自动化研究所的[李国齐](https://casialiguoqi.github.io/)教授长期合作。
+我目前是[Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)的博士后，指导教师为Prof. [Priya Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda)。
+
+我在北京大学计算机学院获得了博士学位，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我在博士期间也与北京大学的[余肇飞](https://yuzhaofei.github.io/)教授、法国国家科学研究中心的[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、中国科学院自动化研究所的[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 
 我的主要研究方向包括脉冲神经网络的学习、网络结构设计。
 
-欢迎对我感兴趣的学术团队联系(fwei at pku.edu.cn)。
+欢迎对我感兴趣的学术团队联系(fangwei123456g at gmail.com)。
 
-更新日期：2024.12.23
+更新日期：2025.03.11
 
 ## 教育和工作经历
 
 - 2015.9 - 2019.6, 学士, [清华大学自动化系](https://www.au.tsinghua.edu.cn/)
 - 2019.9 - 2024.6, 博士, [北京大学计算机学院](https://cs.pku.edu.cn/)
-- 2024.7 - 至今,     助理研究员，[北京大学信息工程学院](https://www.ece.pku.edu.cn/)
+- 2024.7 - 2025.2, 助理研究员，[北京大学信息工程学院](https://www.ece.pku.edu.cn/)
+- 2025.3 - 至今,      博士后, [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)
 
 ## 出版物
 
@@ -49,4 +52,5 @@ layout: default
 
 ## 联系方式
 
-- fwei at pku.edu.cn
+- fangwei123456g at gmail.com
+- wei.fang at yale.edu

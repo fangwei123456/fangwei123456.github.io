@@ -5,21 +5,22 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-I am currently the Research Assistant Professor in the [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
+I am currently the Postdoc Association in [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/),  mentored by Prof. [Priya Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda).
 
-I received my Ph.D. degree in [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html). I have been cooperating with Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of Institute of Automation, Chinese Academy of Sciences.
+I received my Ph.D. degree in [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html). I closely cooperated with Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of Institute of Automation, Chinese Academy of Sciences during my Ph.D. career.
 
 My recent research interests are learning and network structure of Spiking Neural Network.
 
-Please contact me (fwei at pku.edu.cn) if you are interested in my research.
+Please contact me (fangwei123456g at gmail.com) if you are interested in my research.
 
-Last update: 2024.12.23
+Last update: 2025.03.11
 
 ## Education and Working Experience
 
 - 2015.9 - 2019.6, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 - 2019.9 -  2024.6, Ph.D., [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/)
-- 2024.7 - Now, Research Assistant Professor, [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/)
+- 2024.7 - 2025.2, Research Assistant Professor, [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/)
+- 2025.3 - Now, Postdoc Association, [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)
 
 ## Publications
 
@@ -51,5 +52,6 @@ Last update: 2024.12.23
 
 ## Contact
 
-- fwei at pku.edu.cn
+- fangwei123456g at gmail.com
+- wei.fang at yale.edu
 
