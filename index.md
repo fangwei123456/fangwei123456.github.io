@@ -28,9 +28,10 @@ Last update: 2025.03.11
 
 1. **Wei Fang**, Zhaofei Yu, Yanqi Chen, Timothée Masquelier, Tiejun Huang, Yonghong Tian, [Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html), **ICCV 2021**
 2. **Wei Fang**, Zhaofei Yu, Yanqi Chen, Tiejun Huang, Timothée Masquelier, Yonghong Tian, [Deep Residual Learning in Spiking Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html), **NeurIPS 2021**
-3. **Wei Fang**, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, Ding Chen, Liwei Huang, Huihui Zhou, Guoqi Li, Yonghong Tian, [SpikingJelly: An   Open-source Machine Learning Infrastructure Platform for Spike-based   Intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), **Science Advances**
+3. **Wei Fang**, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, Ding Chen, Liwei Huang, Huihui Zhou, Guoqi Li, Yonghong Tian, [SpikingJelly: An   Open-source Machine Learning Infrastructure Platform for Spike-based   Intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), **Science Advances, 2023**
    - Recommended by **Nature Computational Science** in the *Research Highlight* article: [A Full-stack Platform for Spiking Deep Learning](https://www.nature.com/articles/s43588-023-00565-5)
 4. **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://papers.nips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html), **NeurIPS 2023**
+5. **Wei Fang**, Yaoyu Zhu, Zihan Huang, Man Yao, Zhaofei Yu, Yonghong Tian, [Review of Surrogate Gradient Methods in Spiking Deep Learning](./docs/snn_surrogate_learning_chinese_review.pdf) (In Chinese), **Chinese Journal of Computers, 2025** (In Press)
 
 #### Other Papers
 
@@ -41,8 +42,8 @@ Last update: 2025.03.11
 5. Yanqi Chen, Zhengyu Ma, **Wei Fang**, Xiawu Zheng, Zhaofei Yu, Yonghong Tian, [A Unified Framework for Soft Threshold Pruning](https://openreview.net/forum?id=cCFqcrq0d8), **ICLR 2023**
 6. Yaoyu Zhu, **Wei Fang**, Xiaodong Xie, Tiejun Huang, Zhaofei Yu, [Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks](https://papers.nips.cc/paper_files/paper/2023/hash/cde874a797a8300da693d5e412b7fdc0-Abstract-Conference.html), **NeurIPS 2023**
 7. Liuzhenghao Lv, **Wei Fang**, Li Yuan, Yonghong Tian, [Optimal ANN-SNN Conversion with Group Neurons](https://ieeexplore.ieee.org/document/10448202), **ICASSP 2024**
-8. Man Yao, Ole Richter, Guangshe Zhao, Ning Qiao, Yannan Xing, Dingheng Wang, Tianxiang Hu, **Wei Fang**, Tugba Demirci, Michele De Marchi, Lei Deng, Tianyi Yan, Carsten Nielsen, Sadique Sheik, Chenxi Wu, Yonghong Tian, Bo Xu, Guoqi Li, [Spike-based Dynamic Computing with Asynchronous Sensing-Computing Neuromorphic Chip](https://www.nature.com/articles/s41467-024-47811-6), **Nature Communications**
-9. Haonan Qiu, Munan Ning, Zeyin Song, **Wei Fang**, Yanqi Chen, Tao Sun, Zhengyu Ma, Li Yuan, Yonghong Tian, [Self-architectural Knowledge Distillation for Spiking Neural Networks](https://www.sciencedirect.com/science/article/pii/S089360802400399X), **Neural Networks**
+8. Man Yao, Ole Richter, Guangshe Zhao, Ning Qiao, Yannan Xing, Dingheng Wang, Tianxiang Hu, **Wei Fang**, Tugba Demirci, Michele De Marchi, Lei Deng, Tianyi Yan, Carsten Nielsen, Sadique Sheik, Chenxi Wu, Yonghong Tian, Bo Xu, Guoqi Li, [Spike-based Dynamic Computing with Asynchronous Sensing-Computing Neuromorphic Chip](https://www.nature.com/articles/s41467-024-47811-6), **Nature Communications, 2024**
+9. Haonan Qiu, Munan Ning, Zeyin Song, **Wei Fang**, Yanqi Chen, Tao Sun, Zhengyu Ma, Li Yuan, Yonghong Tian, [Self-architectural Knowledge Distillation for Spiking Neural Networks](https://www.sciencedirect.com/science/article/pii/S089360802400399X), **Neural Networks, 2024**
 
 ## Projects
 
