@@ -37,7 +37,7 @@ Last update: 2025.03.11
 
 5. **Wei Fang**, Yaoyu Zhu, Zihan Huang, Man Yao, Zhaofei Yu, Yonghong Tian, [Review of Surrogate Gradient Methods in Spiking Deep Learning](./docs/snn_surrogate_learning_chinese_review.pdf) (In Chinese), **Chinese Journal of Computers, 2025** (In Press)
 
-6. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), **ArXiv**
+6. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), **ArXiv, 2025**
    - This article is so interesting that I put it here even though it is only a pre-print
 
 #### Other Papers
