@@ -32,6 +32,8 @@ layout: default
    - 该论文被**Nature Computational Science**以*Research Highlight*进行报道: [A Full-stack Platform for Spiking Deep Learning](https://www.nature.com/articles/s43588-023-00565-5)
 4. **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://papers.nips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html), **NeurIPS 2023**
 5. **方维**，朱耀宇，黄梓涵，姚满，余肇飞，田永鸿，[脉冲深度学习梯度替代算法研究综述](./docs/snn_surrogate_learning_chinese_review.pdf)，**计算机学报，2025**（出版中）
+6. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), **ArXiv**
+   - 这篇文章内容非常有趣，因而尽管是预印本，我也放进了文章列表中
 
 #### 其他论文
 
