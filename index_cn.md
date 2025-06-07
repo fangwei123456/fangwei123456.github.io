@@ -5,7 +5,7 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-我目前是[Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)的博士后，指导教师为Prof. [Priya Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda)。
+我目前是[Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)的博士后，指导教师为Prof. [Priya Panda](https://engineering.yale.edu/research-and-faculty/faculty-directory/priyadarshini-panda)。
 
 我在北京大学计算机学院获得了博士学位，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我在博士期间也与北京大学的[余肇飞](https://yuzhaofei.github.io/)教授、法国国家科学研究中心的[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、中国科学院自动化研究所的[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 
