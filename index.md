@@ -27,20 +27,12 @@ Last update: 2025.03.11
 #### First/Corresponding-author Papers
 
 1. **Wei Fang**, Zhaofei Yu, Yanqi Chen, Timothée Masquelier, Tiejun Huang, Yonghong Tian, [Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html), **ICCV 2021**
-
 2. **Wei Fang**, Zhaofei Yu, Yanqi Chen, Tiejun Huang, Timothée Masquelier, Yonghong Tian, [Deep Residual Learning in Spiking Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html), **NeurIPS 2021**
-
 3. **Wei Fang**, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, Ding Chen, Liwei Huang, Huihui Zhou, Guoqi Li, Yonghong Tian, [SpikingJelly: An   Open-source Machine Learning Infrastructure Platform for Spike-based   Intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), **Science Advances, 2023**
    - Recommended by **Nature Computational Science** in the *Research Highlight* article: [A Full-stack Platform for Spiking Deep Learning](https://www.nature.com/articles/s43588-023-00565-5)
-
 4. **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://papers.nips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html), **NeurIPS 2023**
-
 5. **Wei Fang**, Yaoyu Zhu, Zihan Huang, Man Yao, Zhaofei Yu, Yonghong Tian, [Review of Surrogate Gradient Methods in Spiking Deep Learning](./docs/snn_surrogate_learning_chinese_review.pdf) (In Chinese), **Chinese Journal of Computers, 2025** (In Press)
-
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://arxiv.org/abs/2503.00301), **ICML, 2025** (In Press)
-
-7. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), **ArXiv, 2025**
-   - This article is so interesting that I put it here even though it is only a pre-print
 
 #### Other Papers
 

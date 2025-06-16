@@ -37,8 +37,6 @@ layout: default
    - 首个并行脉冲神经元模型之一（另一个是同期发表的[Stochastic Parallelizable Spiking Neurons](https://ieeexplore.ieee.org/document/10191884)）
 5. **方维**，朱耀宇，黄梓涵，姚满，余肇飞，田永鸿，[脉冲深度学习梯度替代算法研究综述](./docs/snn_surrogate_learning_chinese_review.pdf)，**计算机学报，2025**（出版中）
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://arxiv.org/abs/2503.00301), **ICML, 2025** (出版中)
-7. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), **ArXiv, 2025**
-   - 这篇文章内容非常有趣，因而尽管是预印本，我也放进了文章列表中
 
 #### 其他论文
 
