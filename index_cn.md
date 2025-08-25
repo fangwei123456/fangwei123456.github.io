@@ -27,14 +27,10 @@ layout: default
 #### 第一/通讯作者论文
 
 1. **Wei Fang**, Zhaofei Yu, Yanqi Chen, Timothée Masquelier, Tiejun Huang, Yonghong Tian, [Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html), **ICCV 2021**
-   - 如果您想入门脉冲深度学习，推荐从阅读这篇论文开始
 2. **Wei Fang**, Zhaofei Yu, Yanqi Chen, Tiejun Huang, Timothée Masquelier, Yonghong Tian, [Deep Residual Learning in Spiking Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html), **NeurIPS 2021**
-   - 从恒等变换与梯度传播角度进行改进，解决了脉冲残差网络的退化问题
 3. **Wei Fang**, Yanqi Chen, Jianhao Ding, Zhaofei Yu, Timothée Masquelier, Ding Chen, Liwei Huang, Huihui Zhou, Guoqi Li, Yonghong Tian, [SpikingJelly: An   Open-source Machine Learning Infrastructure Platform for Spike-based   Intelligence](https://www.science.org/doi/10.1126/sciadv.adi1480), **Science Advances, 2023**
-   - 全栈式脉冲深度学习框架
    - 该论文被**Nature Computational Science**以*Research Highlight*进行报道: [A Full-stack Platform for Spiking Deep Learning](https://www.nature.com/articles/s43588-023-00565-5)
 4. **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://papers.nips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html), **NeurIPS 2023**
-   - 首个并行脉冲神经元模型之一（另一个是同期发表的[Stochastic Parallelizable Spiking Neurons](https://ieeexplore.ieee.org/document/10191884)）
 5. **方维**，朱耀宇，黄梓涵，姚满，余肇飞，田永鸿，[脉冲深度学习梯度替代算法研究综述](http://cjc.ict.ac.cn/online/onlinepaper/fw-2025818171058.pdf)，**计算机学报，2025**
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://icml.cc/virtual/2025/poster/45408), **ICML, 2025**
 
