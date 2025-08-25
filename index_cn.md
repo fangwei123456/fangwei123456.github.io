@@ -35,8 +35,8 @@ layout: default
    - 该论文被**Nature Computational Science**以*Research Highlight*进行报道: [A Full-stack Platform for Spiking Deep Learning](https://www.nature.com/articles/s43588-023-00565-5)
 4. **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://papers.nips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html), **NeurIPS 2023**
    - 首个并行脉冲神经元模型之一（另一个是同期发表的[Stochastic Parallelizable Spiking Neurons](https://ieeexplore.ieee.org/document/10191884)）
-5. **方维**，朱耀宇，黄梓涵，姚满，余肇飞，田永鸿，[脉冲深度学习梯度替代算法研究综述](./docs/snn_surrogate_learning_chinese_review.pdf)，**计算机学报，2025**（出版中）
-6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://arxiv.org/abs/2503.00301), **ICML, 2025** (出版中)
+5. **方维**，朱耀宇，黄梓涵，姚满，余肇飞，田永鸿，[脉冲深度学习梯度替代算法研究综述](http://cjc.ict.ac.cn/online/onlinepaper/fw-2025818171058.pdf)，**计算机学报，2025**
+6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://icml.cc/virtual/2025/poster/45408), **ICML, 2025**
 
 #### 其他论文
 
