@@ -5,7 +5,7 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-I am currently the Postdoc Association in [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/),  mentored by Prof. [Priya Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl=en).
+I am currently the Postdoc Associate in [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/),  mentored by Prof. [Priya Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl=en).
 
 I received my Ph.D. degree in [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html). I closely cooperated with Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of Institute of Automation, Chinese Academy of Sciences during my Ph.D. career.
 
@@ -20,7 +20,7 @@ Last update: 2025.09.18
 - 2015.9 - 2019.6, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 - 2019.9 -  2024.6, Ph.D., [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/)
 - 2024.7 - 2025.2, Research Assistant Professor, [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/)
-- 2025.3 - Now, Postdoc Association, [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)
+- 2025.3 - Now, Postdoc Associate, [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)
 
 ## Publications
 
