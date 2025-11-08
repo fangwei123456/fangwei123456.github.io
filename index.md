@@ -34,7 +34,7 @@ Last update: 2025.11.07
 5. **Wei Fang**, Yaoyu Zhu, Zihan Huang, Man Yao, Zhaofei Yu, Yonghong Tian, [Review of Surrogate Gradient Methods in Spiking Deep Learning](http://cjc.ict.ac.cn/online/onlinepaper/fw-2025818171058.pdf) (In Chinese), **Chinese Journal of Computers 2025**
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://icml.cc/virtual/2025/poster/45408), **ICML 2025**
 7. Peng Xue, **Wei Fang**, Zhengyu Ma, Zihan Huang, Zhaokun Zhou, Yonghong Tian, Timothée Masquelier, Huihui Zhou, [Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics](https://arxiv.org/abs/2501.14490), **NeurIPS 2025 (In Press)** 
-8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2025 (In Press)**
+8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2026 (In Press)**
 
 #### Other Papers
 
