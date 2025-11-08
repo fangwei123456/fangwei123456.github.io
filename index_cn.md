@@ -13,7 +13,7 @@ layout: default
 
 欢迎对我感兴趣的学术团队联系(fangwei123456g at gmail.com)。
 
-更新日期：2025.09.18
+更新日期：2025.11.07
 
 ## 教育和工作经历
 
@@ -34,6 +34,7 @@ layout: default
 5. **方维**，朱耀宇，黄梓涵，姚满，余肇飞，田永鸿，[脉冲深度学习梯度替代算法研究综述](http://cjc.ict.ac.cn/online/onlinepaper/fw-2025818171058.pdf)，**计算机学报 2025**
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://icml.cc/virtual/2025/poster/45408), **ICML 2025**
 7. Peng Xue, **Wei Fang**, Zhengyu Ma, Zihan Huang, Zhaokun Zhou, Yonghong Tian, Timothée Masquelier, Huihui Zhou, [Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics](https://arxiv.org/abs/2501.14490), **NeurIPS 2025 (In Press)** 
+8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2025 (In Press)**
 
 #### 其他论文
 
