@@ -35,6 +35,12 @@ layout: default
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://icml.cc/virtual/2025/poster/45408), **ICML 2025**
 7. Peng Xue, **Wei Fang**, Zhengyu Ma, Zihan Huang, Zhaokun Zhou, Yonghong Tian, Timothée Masquelier, Huihui Zhou, [Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics](https://arxiv.org/abs/2501.14490), **NeurIPS 2025 (In Press)** 
 8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2026 (In Press)**
+9. Yifan Huang, **Wei Fang**, Zecheng Hao, Zhengyu Ma, Yonghong Tian, [Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression](https://openreview.net/forum?id=nrBJ0Uvj7c), **ICLR 2026 (In Press)**
+
+#### 精选预印论文
+
+1. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371)
+
 
 #### 其他论文
 
@@ -47,6 +53,14 @@ layout: default
 7. Liuzhenghao Lv, **Wei Fang**, Li Yuan, Yonghong Tian, [Optimal ANN-SNN Conversion with Group Neurons](https://ieeexplore.ieee.org/document/10448202), **ICASSP 2024**
 8. Man Yao, Ole Richter, Guangshe Zhao, Ning Qiao, Yannan Xing, Dingheng Wang, Tianxiang Hu, **Wei Fang**, Tugba Demirci, Michele De Marchi, Lei Deng, Tianyi Yan, Carsten Nielsen, Sadique Sheik, Chenxi Wu, Yonghong Tian, Bo Xu, Guoqi Li, [Spike-based Dynamic Computing with Asynchronous Sensing-Computing Neuromorphic Chip](https://www.nature.com/articles/s41467-024-47811-6), **Nature Communications 2024**
 9. Haonan Qiu, Munan Ning, Zeyin Song, **Wei Fang**, Yanqi Chen, Tao Sun, Zhengyu Ma, Li Yuan, Yonghong Tian, [Self-architectural Knowledge Distillation for Spiking Neural Networks](https://www.sciencedirect.com/science/article/pii/S089360802400399X), **Neural Networks 2024**
+
+## 部分奖励荣誉
+
+- [2023年度“石青云院士优秀论文奖”](https://www.ist.pku.edu.cn/info/1001/2930.htm)
+- 2024年度北京大学优秀毕业生
+- [2024年度北京市普通高等学校优秀毕业生](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)
+- [2024年度北京大学优秀博士学位论文](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/50118yjsy381890.htm)
+- [2025年度CCF博士学位论文激励计划（CCF优博）](https://www.ccf.org.cn/Awards/Awards/2025-12-18/854130.shtml)
 
 ## 开源项目
 

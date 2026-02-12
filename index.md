@@ -35,6 +35,11 @@ Last update: 2025.11.07
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://icml.cc/virtual/2025/poster/45408), **ICML 2025**
 7. Peng Xue, **Wei Fang**, Zhengyu Ma, Zihan Huang, Zhaokun Zhou, Yonghong Tian, Timothée Masquelier, Huihui Zhou, [Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics](https://arxiv.org/abs/2501.14490), **NeurIPS 2025 (In Press)** 
 8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2026 (In Press)**
+9. Yifan Huang, **Wei Fang**, Zecheng Hao, Zhengyu Ma, Yonghong Tian, [Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression](https://openreview.net/forum?id=nrBJ0Uvj7c), **ICLR 2026 (In Press)**
+
+#### Selected Preprint Papers
+
+1. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371)
 
 #### Other Papers
 
@@ -47,6 +52,14 @@ Last update: 2025.11.07
 7. Liuzhenghao Lv, **Wei Fang**, Li Yuan, Yonghong Tian, [Optimal ANN-SNN Conversion with Group Neurons](https://ieeexplore.ieee.org/document/10448202), **ICASSP 2024**
 8. Man Yao, Ole Richter, Guangshe Zhao, Ning Qiao, Yannan Xing, Dingheng Wang, Tianxiang Hu, **Wei Fang**, Tugba Demirci, Michele De Marchi, Lei Deng, Tianyi Yan, Carsten Nielsen, Sadique Sheik, Chenxi Wu, Yonghong Tian, Bo Xu, Guoqi Li, [Spike-based Dynamic Computing with Asynchronous Sensing-Computing Neuromorphic Chip](https://www.nature.com/articles/s41467-024-47811-6), **Nature Communications 2024**
 9. Haonan Qiu, Munan Ning, Zeyin Song, **Wei Fang**, Yanqi Chen, Tao Sun, Zhengyu Ma, Li Yuan, Yonghong Tian, [Self-architectural Knowledge Distillation for Spiking Neural Networks](https://www.sciencedirect.com/science/article/pii/S089360802400399X), **Neural Networks 2024**
+
+## Selected Awards
+
+- Shi Qingyun Academician's Excellent Thesis Award, 2023
+- Outstanding Graduate of Peking University, 2024
+- Outstanding Graduate of Beijing, 2024
+- Outstanding Doctoral Dissertation Award, Peking University, 2024
+- China Computer Federation (CCF) Outstanding Doctoral Dissertation Award, 2025
 
 ## Projects
 
