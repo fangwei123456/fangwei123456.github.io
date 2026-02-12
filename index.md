@@ -13,7 +13,7 @@ My recent research interests are learning and network structure of Spiking Neura
 
 Please contact me (fangwei123456g at gmail.com) if you are interested in my research.
 
-Last update: 2025.11.07
+Last update: 2026.02.11
 
 ## Education and Working Experience
 
