@@ -5,22 +5,23 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-I am currently the Postdoc Associate in [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/),  mentored by Prof. [Priya Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl=en).
+I am currently an AI research scientist at [MiroMind](https://www.miromind.ai/).
 
 I received my Ph.D. degree in [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html). I closely cooperated with Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of Institute of Automation, Chinese Academy of Sciences during my Ph.D. career.
 
 My recent research interests are learning and network structure of Spiking Neural Network.
 
-Please contact me (fangwei123456g at gmail.com) if you are interested in my research.
+Please contact me (wei.fang at miromind.ai) if you are interested in my research.
 
-Last update: 2026.02.11
+Last update: 2026.03.04
 
 ## Education and Working Experience
 
 - 2015.9 - 2019.6, bachelor, [Department of Automation](https://www.au.tsinghua.edu.cn/publish/auen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 - 2019.9 -  2024.6, Ph.D., [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/)
 - 2024.7 - 2025.2, Research Assistant Professor, [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/)
-- 2025.3 - Now, Postdoc Associate, [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)
+- 2025.3 - 2026.2, Postdoc Associate, [Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)
+- 2026.3 - Now, [MiroMind](https://www.miromind.ai/), AI Research Scientist
 
 ## Publications
 
@@ -39,7 +40,7 @@ Last update: 2026.02.11
 
 #### Selected Preprint Papers
 
-1. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371)
+1. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), 2025
 
 #### Other Papers
 
@@ -70,7 +71,7 @@ Last update: 2026.02.11
 ## Contact
 
 - fangwei123456g at gmail.com
-- wei.fang at yale.edu
+- wei.fang at miromind.ai
 
 
 

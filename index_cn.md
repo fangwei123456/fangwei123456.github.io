@@ -5,7 +5,7 @@ layout: default
 
 [[English]](./index.md) [[中文]](./index_cn.md)
 
-我目前是[Electrical & Computer Engineering](https://seas.yale.edu/departments/electrical-engineering), [Yale University](https://www.yale.edu/)的博士后，指导教师为Prof. [Priya Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl=en)。
+我目前是[MiroMind](https://www.miromind.ai/)的人工智能研究科学家。
 
 我在北京大学计算机学院获得了博士学位，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。此外，我在博士期间也与北京大学的[余肇飞](https://yuzhaofei.github.io/)教授、法国国家科学研究中心的[Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/)研究员、中国科学院自动化研究所的[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 
@@ -13,14 +13,15 @@ layout: default
 
 欢迎对我感兴趣的学术团队联系(fangwei123456g at gmail.com)。
 
-更新日期：2026.02.11
+更新日期：2026.03.04
 
 ## 教育和工作经历
 
 - 2015.9 - 2019.6, 学士, [清华大学自动化系](https://www.au.tsinghua.edu.cn/)
 - 2019.9 - 2024.6, 博士, [北京大学计算机学院](https://cs.pku.edu.cn/)
 - 2024.7 - 2025.2, 助理研究员，[北京大学信息工程学院](https://www.ece.pku.edu.cn/)
-- 2025.3 - 至今,      博士后, [耶鲁大学电子与计算机工程系](https://seas.yale.edu/departments/electrical-engineering)
+- 2025.3 - 2026.2, 博士后, [耶鲁大学电子与计算机工程系](https://seas.yale.edu/departments/electrical-engineering)
+- 2026.3 - 至今，[MiroMind](https://www.miromind.ai/), 人工智能研究科学家
 
 ## 出版物
 
@@ -39,7 +40,7 @@ layout: default
 
 #### 精选预印论文
 
-1. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371)
+1. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), 2025
 
 
 #### 其他论文
@@ -71,4 +72,7 @@ layout: default
 ## 联系方式
 
 - fangwei123456g at gmail.com
-- wei.fang at yale.edu
+
+- wei.fang at miromind.ai
+
+  
