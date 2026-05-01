@@ -34,13 +34,13 @@ Last update: 2026.03.04
 4. **Wei Fang**, Zhaofei Yu, Zhaokun Zhou, Ding Chen, Yanqi Chen, Zhengyu Ma, Timothée Masquelier, Yonghong Tian, [Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies](https://papers.nips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html), **NeurIPS 2023**
 5. **Wei Fang**, Yaoyu Zhu, Zihan Huang, Man Yao, Zhaofei Yu, Yonghong Tian, [Review of Surrogate Gradient Methods in Spiking Deep Learning](http://cjc.ict.ac.cn/online/onlinepaper/fw-2025818171058.pdf) (In Chinese), **Chinese Journal of Computers 2025**
 6. Zihan Huang, **Wei Fang**, Tong Bu, Peng Xue, Zecheng Hao, Wenxuan Liu, Yuanhong Tang, Zhaofei Yu, Tiejun Huang, [Differential Coding for Training-Free ANN-to-SNN Conversion](https://icml.cc/virtual/2025/poster/45408), **ICML 2025**
-7. Peng Xue, **Wei Fang**, Zhengyu Ma, Zihan Huang, Zhaokun Zhou, Yonghong Tian, Timothée Masquelier, Huihui Zhou, [Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics](https://arxiv.org/abs/2501.14490), **NeurIPS 2025 (In Press)** 
-8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2026 (In Press)**
-9. Yifan Huang, **Wei Fang**, Zecheng Hao, Zhengyu Ma, Yonghong Tian, [Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression](https://openreview.net/forum?id=nrBJ0Uvj7c), **ICLR 2026 (In Press)**
+7. Peng Xue, **Wei Fang**, Zhengyu Ma, Zihan Huang, Zhaokun Zhou, Yonghong Tian, Timothée Masquelier, Huihui Zhou, [Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics](https://arxiv.org/abs/2501.14490), **NeurIPS 2025** 
+8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2026**
+9. Yifan Huang, **Wei Fang**, Zecheng Hao, Zhengyu Ma, Yonghong Tian, [Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression](https://openreview.net/forum?id=nrBJ0Uvj7c), **ICLR 2026**
+10. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), **ICML 2026 (In Press)**
+11. Kaiwei Che, **Wei Fang**, Zhengyu Ma, Yifan Huang, Peng Xue, Li Yuan, Yonghong Tian, [Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch](https://arxiv.org/abs/2410.23619), **ICML 2026 (In Press)**
 
-#### Selected Preprint Papers
 
-1. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), 2025
 
 #### Other Papers
 
