@@ -38,7 +38,6 @@ Last update: 2026.03.04
 8. Kaiwei Che, **Wei Fang**, Peng Xue, Yifan Huang, Zhengyu Ma, Yonghong Tian, Parallel Training Time-to-First-Spike Spiking Neural Networks, **AAAI 2026**
 9. Yifan Huang, **Wei Fang**, Zecheng Hao, Zhengyu Ma, Yonghong Tian, [Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression](https://openreview.net/forum?id=nrBJ0Uvj7c), **ICLR 2026**
 10. **Wei Fang**, Priyadarshini Panda, [Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371), **ICML 2026 (In Press)**
-11. Kaiwei Che, **Wei Fang**, Zhengyu Ma, Yifan Huang, Peng Xue, Li Yuan, Yonghong Tian, [Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch](https://arxiv.org/abs/2410.23619), **ICML 2026 (In Press)**
 
 
 
