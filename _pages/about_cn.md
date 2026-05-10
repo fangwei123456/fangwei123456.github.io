@@ -1,12 +1,32 @@
 ---
-layout: page
+layout: about
 title: 中文
 permalink: /cn/
+subtitle: <a href="https://www.miromind.ai/">MiroMind</a> 人工智能研究科学家
 nav: true
 nav_order: 6
----
 
-## 方维
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>wei.fang at miromind.ai</p>
+    <p>fangwei123456g at gmail.com</p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: false
+  limit: 3
+
+latest_posts:
+  enabled: true
+  scrollable: false
+  limit: 3
+---
 
 我目前是 [MiroMind](https://www.miromind.ai/) 的人工智能研究科学家。
 
@@ -14,7 +34,9 @@ nav_order: 6
 
 我的主要研究方向包括脉冲神经网络的学习算法和网络结构设计。
 
-欢迎对我研究感兴趣的团队联系我：wei.fang at miromind.ai。
+欢迎对我研究感兴趣的团队联系我。
+
+[English homepage]({{ '/' | relative_url }}) · [中文简历]({{ '/assets/pdf/cv_cn.pdf' | relative_url }}) · [English CV]({{ '/assets/pdf/cv_en.pdf' | relative_url }})
 
 ### 教育和工作经历
 
@@ -32,4 +54,10 @@ nav_order: 6
 - 2024 年度北京大学优秀博士学位论文
 - 2025 年度 CCF 博士学位论文激励计划（CCF 优博）
 
-[中文简历]({{ '/assets/pdf/cv_cn.pdf' | relative_url }}) · [English CV]({{ '/assets/pdf/cv_en.pdf' | relative_url }})
+### 项目
+
+- [SpikingJelly](https://github.com/fangwei123456/spikingjelly)：开源脉冲神经网络深度学习框架，我是主要贡献者之一。
+- [Python JPEG Encoder](https://github.com/fangwei123456/python-jpeg-encoder)：从零开始构建的标准 JPEG 编码器。
+- [Tello GUI Controller](https://github.com/fangwei123456/telloGUIController)：基于 Qt5 的 Tello 无人机图形界面控制程序。
+
+更多内容见[论文列表]({{ '/publications/' | relative_url }})、[项目页]({{ '/projects/' | relative_url }})和[博客]({{ '/blog/' | relative_url }})。
