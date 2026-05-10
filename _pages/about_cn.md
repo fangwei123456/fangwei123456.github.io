@@ -15,15 +15,17 @@ profile:
     <p>fangwei123456g at gmail.com</p>
 
 selected_papers: true
+selected_papers_title: 精选论文
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: false
   limit: 3
 
 latest_posts:
   enabled: true
+  title: 最新文章
   scrollable: false
   limit: 3
 ---
