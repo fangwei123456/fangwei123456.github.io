@@ -58,13 +58,7 @@
       {% assign corresponding_author_note = '' %}
       {% if corresponding_paper_keys contains entry_key_token %}
         {% assign paper_has_corresponding_authors = true %}
-        {% if entry.key == 'huang2025differential' %}
-          {% assign corresponding_author_note = 'Co-corresponding authors: Wei Fang and Tiejun Huang.' %}
-        {% elsif entry.key == 'xue2025multiplication' %}
-          {% assign corresponding_author_note = 'Co-corresponding authors: Wei Fang and Huihui Zhou.' %}
-        {% elsif entry.key == 'che2026ttfs' or entry.key == 'huang2026checkpointing' %}
-          {% assign corresponding_author_note = 'Co-corresponding authors: Wei Fang and Yonghong Tian.' %}
-        {% endif %}
+        {% assign corresponding_author_note = 'Co-corresponding' %}
       {% endif %}
 
       {% assign author_array_limit = author_array_size %}
