@@ -4,7 +4,7 @@ cv:
   email: wei.fang@miromind.ai
   location: ""
   image: ""
-  summary: Research scientist working on learning algorithms and network structures for Spiking Neural Networks.
+  summary: Research scientist working on learning algorithms and network structures for Spiking Neural Networks, as well as large-model infrastructure.
 
   social_networks:
     - network: GitHub
@@ -33,18 +33,21 @@ cv:
     Experience:
       - company: MiroMind
         position: AI Research Scientist
+        location: Singapore
         url: https://www.miromind.ai/
         start_date: 2026-03
         end_date: present
 
       - company: Yale University
         position: Postdoc Associate
+        location: New Haven, United States
         url: https://seas.yale.edu/departments/electrical-engineering
         start_date: 2025-03
         end_date: 2026-02
 
       - company: Peking University
         position: Research Assistant Professor
+        location: Shenzhen, China
         url: https://www.ece.pku.edu.cn/en/
         start_date: 2024-07
         end_date: 2025-02
