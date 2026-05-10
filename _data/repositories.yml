@@ -1,0 +1,9 @@
+github_users:
+  - fangwei123456
+
+repo_description_lines_max: 2
+
+github_repos:
+  - fangwei123456/spikingjelly
+  - fangwei123456/python-jpeg-encoder
+  - fangwei123456/telloGUIController
