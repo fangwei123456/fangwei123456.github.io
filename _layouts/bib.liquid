@@ -55,8 +55,16 @@
       {% assign corresponding_paper_keys = '|huang2025differential|xue2025multiplication|che2026ttfs|huang2026checkpointing|' %}
       {% assign entry_key_token = entry.key | prepend: '|' | append: '|' %}
       {% assign paper_has_corresponding_authors = false %}
+      {% assign corresponding_author_note = '' %}
       {% if corresponding_paper_keys contains entry_key_token %}
         {% assign paper_has_corresponding_authors = true %}
+        {% if entry.key == 'huang2025differential' %}
+          {% assign corresponding_author_note = 'Co-corresponding authors: Wei Fang and Tiejun Huang.' %}
+        {% elsif entry.key == 'xue2025multiplication' %}
+          {% assign corresponding_author_note = 'Co-corresponding authors: Wei Fang and Huihui Zhou.' %}
+        {% elsif entry.key == 'che2026ttfs' or entry.key == 'huang2026checkpointing' %}
+          {% assign corresponding_author_note = 'Co-corresponding authors: Wei Fang and Yonghong Tian.' %}
+        {% endif %}
       {% endif %}
 
       {% assign author_array_limit = author_array_size %}
@@ -73,12 +81,6 @@
             {% assign author_is_self = true %}
           {% endif %}
         {%- endif -%}
-        {% assign author_is_corresponding = false %}
-        {% if paper_has_corresponding_authors %}
-          {% if author_is_self or forloop.last %}
-            {% assign author_is_corresponding = true %}
-          {% endif %}
-        {% endif %}
         {% assign coauthor_url = null %}
         {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
         {% if site.data.coauthors[clean_last_name] %}
@@ -101,24 +103,15 @@
             {{- author.first }}
             {{ author_last_html -}}
           </em>
-          {%- if author_is_corresponding -%}
-            <i class="fa-solid fa-envelope ml-1" title="Corresponding author"></i>
-          {%- endif -%}
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
               {{- author.first }}
               {{ author_last_html -}}
             </a>
-            {%- if author_is_corresponding -%}
-              <i class="fa-solid fa-envelope ml-1" title="Corresponding author"></i>
-            {%- endif -%}
           {%- else -%}
             {{- author.first }}
             {{ author_last_html -}}
-            {%- if author_is_corresponding -%}
-              <i class="fa-solid fa-envelope ml-1" title="Corresponding author"></i>
-            {%- endif -%}
           {% endif %}
         {%- endif -%}
       {% endfor %}
@@ -204,6 +197,11 @@
     {% if entry.additional_info %}
       <div class="periodical additional-info">
         {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+    {% if corresponding_author_note != '' %}
+      <div class="periodical additional-info">
+        {{ corresponding_author_note }}
       </div>
     {% endif %}
     <div class="periodical">
