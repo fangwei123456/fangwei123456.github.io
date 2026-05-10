@@ -25,7 +25,7 @@ announcements:
 
 latest_posts:
   enabled: true
-  title: 最新文章
+  title: 最新博客文章
   scrollable: false
   limit: 3
 ---
