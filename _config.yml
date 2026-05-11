@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Wei Fang
+title: Wei Fang (方维)
 first_name: Wei
 middle_name:
 last_name: Fang
 contact_note: >
   For research collaboration, please contact me at wei.fang at miromind.ai.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Wei Fang's academic homepage: spiking neural networks, neuromorphic computing, publications, projects, and blog posts.
+  Wei Fang's academic homepage: large-model infrastructure, neuromorphic computing, brain-inspired computing, publications, projects, and blog posts.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: spiking neural networks, neuromorphic computing, deep learning, academic website
+keywords: large-model infrastructure, neuromorphic computing, brain-inspired computing, academic website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

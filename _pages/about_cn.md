@@ -34,7 +34,7 @@ latest_posts:
 
 我在[北京大学计算机学院](https://cs.pku.edu.cn/)获得博士学位，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。博士期间，我也与北京大学的[余肇飞](https://yuzhaofei.github.io/)教授、法国国家科学研究中心的 [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) 研究员、中国科学院自动化研究所的[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 
-我的主要研究方向包括脉冲神经网络的学习算法和网络结构设计。
+我的主要研究方向包括大模型 infra、神经形态计算、类脑计算。
 
 欢迎对我研究感兴趣的团队联系我。
 

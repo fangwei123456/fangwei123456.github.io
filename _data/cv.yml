@@ -4,7 +4,7 @@ cv:
   email: wei.fang@miromind.ai
   location: ""
   image: ""
-  summary: Research scientist working on learning algorithms and network structures for Spiking Neural Networks, as well as large-model infrastructure.
+  summary: Research scientist working on large-model infrastructure, neuromorphic computing, and brain-inspired computing.
 
   social_networks:
     - network: GitHub
@@ -142,7 +142,7 @@ cv:
 
     Skills:
       - name: Research Interests
-        keywords: Spiking Neural Networks, Neuromorphic Computing, Deep Learning
+        keywords: Large-model Infrastructure, Neuromorphic Computing, Brain-inspired Computing
 
     Languages:
       - name: Chinese

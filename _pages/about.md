@@ -30,7 +30,7 @@ I am currently an AI research scientist at [MiroMind](https://www.miromind.ai/).
 
 I received my Ph.D. degree from the [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html). During my Ph.D. career, I closely cooperated with Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of the Institute of Automation, Chinese Academy of Sciences.
 
-My recent research interests include learning algorithms and network structures for Spiking Neural Networks.
+My recent research interests include large-model infrastructure, neuromorphic computing, and brain-inspired computing.
 
 Please contact me if you are interested in my research.
 
