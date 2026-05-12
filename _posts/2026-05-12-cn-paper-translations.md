@@ -2,7 +2,7 @@
 layout: post
 title: 一作论文的中文版翻译上线
 date: 2026-05-12 00:00:00+0800
-description: 一作论文的中文 PDF 翻译现已上线。
+description: 享受高效中文阅读体验。
 tags: publications translation
 categories: updates
 related_posts: false
