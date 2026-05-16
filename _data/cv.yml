@@ -81,6 +81,78 @@ cv:
         date: 2023
 
     Publications:
+      - title: "Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space"
+        authors:
+          - Wei Fang
+          - Priyadarshini Panda
+        publisher: ICML
+        releaseDate: 2026
+        url: /assets/pdf/papers/fang_icml_2026_event2vec.pdf
+
+      - title: Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression
+        authors:
+          - Yifan Huang
+          - Wei Fang
+          - Zecheng Hao
+          - Zhengyu Ma
+          - Yonghong Tian
+        publisher: ICLR
+        releaseDate: 2026
+        url: https://openreview.net/forum?id=nrBJ0Uvj7c
+
+      - title: Parallel Training Time-to-First-Spike Spiking Neural Networks
+        authors:
+          - Kaiwei Che
+          - Wei Fang
+          - Peng Xue
+          - Yifan Huang
+          - Zhengyu Ma
+          - Yonghong Tian
+        publisher: AAAI
+        releaseDate: 2026
+        url: https://ojs.aaai.org/index.php/AAAI/article/view/37149
+
+      - title: Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics
+        authors:
+          - Peng Xue
+          - Wei Fang
+          - Zhengyu Ma
+          - Zihan Huang
+          - Zhaokun Zhou
+          - Yonghong Tian
+          - Timothée Masquelier
+          - Huihui Zhou
+        publisher: NeurIPS
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2501.14490
+
+      - title: Differential Coding for Training-Free ANN-to-SNN Conversion
+        authors:
+          - Zihan Huang
+          - Wei Fang
+          - Tong Bu
+          - Peng Xue
+          - Zecheng Hao
+          - Wenxuan Liu
+          - Yuanhong Tang
+          - Zhaofei Yu
+          - Tiejun Huang
+        publisher: ICML
+        releaseDate: 2025
+        url: https://icml.cc/virtual/2025/poster/45408
+
+      - title: Review of Surrogate Gradient Methods in Spiking Deep Learning
+        authors:
+          - Wei Fang
+          - Yaoyu Zhu
+          - Zihan Huang
+          - Man Yao
+          - Zhaofei Yu
+          - Yonghong Tian
+        publisher: Chinese Journal of Computers
+        releaseDate: 2025
+        url: http://cjc.ict.ac.cn/online/onlinepaper/fw-2025818171058.pdf
+
       - title: "SpikingJelly: An Open-source Machine Learning Infrastructure Platform for Spike-based Intelligence"
         authors:
           - Wei Fang
