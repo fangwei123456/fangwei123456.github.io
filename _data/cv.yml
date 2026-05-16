@@ -24,18 +24,18 @@ cv:
 
       - institution: Tsinghua University
         location: Beijing, China
-        url: https://www.tsinghua.edu.cn/en/
-        area: Department of Automation
-        studyType: Bachelor
-        start_date: 2015-09
-        end_date: 2019-06
-
-      - institution: Tsinghua University
-        location: Beijing, China
         url: https://www.sem.tsinghua.edu.cn/en/
         area: School of Economics and Management
         studyType: Second Bachelor's Degree
         start_date: 2016-09
+        end_date: 2019-06
+
+      - institution: Tsinghua University
+        location: Beijing, China
+        url: https://www.tsinghua.edu.cn/en/
+        area: Department of Automation
+        studyType: Bachelor
+        start_date: 2015-09
         end_date: 2019-06
 
     Experience:
