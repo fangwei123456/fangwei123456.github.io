@@ -43,6 +43,7 @@ latest_posts:
 ### 教育和工作经历
 
 - 2015.9 - 2019.6，学士，[清华大学自动化系](https://www.au.tsinghua.edu.cn/)
+- 2016.9 - 2019.6，第二学士学位，[清华大学经济管理学院](https://www.sem.tsinghua.edu.cn/)
 - 2019.9 - 2024.6，博士，[北京大学计算机学院](https://cs.pku.edu.cn/)
 - 2024.7 - 2025.2，助理研究员，[北京大学信息工程学院](https://www.ece.pku.edu.cn/)
 - 2025.3 - 2026.2，博士后，[耶鲁大学电子与计算机工程系](https://seas.yale.edu/departments/electrical-engineering)
