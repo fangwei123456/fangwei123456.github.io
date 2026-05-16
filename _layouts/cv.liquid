@@ -147,9 +147,16 @@ layout: default
             {% continue %}
           {% endif %}
 
+          {% assign display_section_title = section_title %}
+          {% if section_title == 'Awards' %}
+            {% assign display_section_title = 'Selected Awards' %}
+          {% elsif section_title == 'Publications' %}
+            {% assign display_section_title = 'Selected Publications' %}
+          {% endif %}
+
           <a class="anchor" id="{{ section_title | slugify }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ section_title }}</h3>
+            <h3 class="card-title font-weight-medium">{{ display_section_title }}</h3>
             <div>
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
