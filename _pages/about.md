@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Research Scientist at <a href="https://www.miromind.ai/">MiroMind</a>
+subtitle: AI Research Scientist at <a href="https://www.apodex.ai/">Apodex</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>wei.fang at miromind.ai</p>
     <p>fangwei123456g at gmail.com</p>
 
 selected_papers: true
@@ -26,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am currently an AI research scientist at [MiroMind](https://www.miromind.ai/).
+I am currently an AI research scientist at [Apodex](https://www.apodex.ai/).
 
 I received my Ph.D. degree from the [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), supervised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html). During my Ph.D. career, I closely cooperated with Prof. [Zhaofei Yu](https://yuzhaofei.github.io/) of Peking University, Researcher [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) of CNRS, and Prof. [Guoqi Li](https://casialiguoqi.github.io/) of the Institute of Automation, Chinese Academy of Sciences.
 

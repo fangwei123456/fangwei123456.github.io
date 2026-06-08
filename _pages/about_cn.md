@@ -2,7 +2,7 @@
 layout: about
 title: 中文
 permalink: /cn/
-subtitle: <a href="https://www.miromind.ai/">MiroMind</a> 人工智能研究科学家
+subtitle: <a href="https://www.apodex.ai/">Apodex</a> 人工智能研究科学家
 nav: true
 nav_order: 6
 
@@ -11,7 +11,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>wei.fang at miromind.ai</p>
     <p>fangwei123456g at gmail.com</p>
 
 selected_papers: true
@@ -30,7 +29,7 @@ latest_posts:
   limit: 3
 ---
 
-我目前是 [MiroMind](https://www.miromind.ai/) 的人工智能研究科学家。
+我目前是 [Apodex](https://www.apodex.ai/) 的人工智能研究科学家。
 
 我在[北京大学计算机学院](https://cs.pku.edu.cn/)获得博士学位，指导老师为[田永鸿](https://www.pkuml.org/staff/yhtian-cn.html)教授。博士期间，我也与北京大学的[余肇飞](https://yuzhaofei.github.io/)教授、法国国家科学研究中心的 [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) 研究员、中国科学院自动化研究所的[李国齐](https://casialiguoqi.github.io/)教授长期合作。
 
@@ -47,7 +46,7 @@ latest_posts:
 - 2019.9 - 2024.6，博士，[北京大学计算机学院](https://cs.pku.edu.cn/)
 - 2024.7 - 2025.2，助理研究员，[北京大学信息工程学院](https://www.ece.pku.edu.cn/)
 - 2025.3 - 2026.2，博士后，[耶鲁大学电子与计算机工程系](https://seas.yale.edu/departments/electrical-engineering)
-- 2026.3 - 至今，[MiroMind](https://www.miromind.ai/)，人工智能研究科学家
+- 2026.3 - 至今，[Apodex](https://www.apodex.ai/)，人工智能研究科学家
 
 ### 部分奖励荣誉
 
